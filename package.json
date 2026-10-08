@@ -1,0 +1,10 @@
+{
+  "name": "nvr-dental-care",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NVR Dental Care - single page static website",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  }
+}
